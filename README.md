@@ -2,6 +2,9 @@
 
 An interactive MERN stack web app that determines a user's Ayurvedic Prakriti (Vata, Pitta, Kapha, or their combinations) using an engaging image-based quiz. Based on the result, it provides personalized health, lifestyle, and meditation recommendations.
 
+🔗 **Live Demo:** [prakriti-analysis-ten.vercel.app](https://prakriti-analysis-ten.vercel.app)
+
+---
 ---
 
 ## 🚀 Features
